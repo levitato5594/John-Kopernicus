@@ -19,6 +19,8 @@ John Kopernicus is currently written in C, it allows a Kopernicus user to easily
 - DeltaV calculations
   - This option is the most complex yet and features a ton of calculation to help planet modders create their own DeltaV map without any headaches, just copy paste a few values from your configs and voilà ! You have the DeltaV requirements for interplanetary transfers including circularization dv and more !
 
+Here's a small showcase of this option : https://youtu.be/xJ_eWcLpFZU
+
 
 # Other
 
