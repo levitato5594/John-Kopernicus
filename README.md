@@ -21,6 +21,11 @@ John Kopernicus is currently written in C, it allows a Kopernicus user to easily
 
 Here's a small showcase of this option : https://youtu.be/xJ_eWcLpFZU
 
+# Building
+CMake / GCC on Linux:
+`cmake -DCMAKE_BUILD_TYPE=Release -B build`
+`cmake --build build`
+`./build/KSP`
 
 # Other
 

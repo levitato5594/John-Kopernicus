@@ -6,3 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(KSP JohnKopernicus.c
         DeltaV.c
         DeltaV.h)
+
+target_link_libraries(KSP m)
