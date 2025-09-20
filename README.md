@@ -23,9 +23,9 @@ Here's a small showcase of this option : https://youtu.be/xJ_eWcLpFZU
 
 # Building
 CMake / GCC on Linux:
-`cmake -DCMAKE_BUILD_TYPE=Release -B build`
+`cmake -DCMAKE_BUILD_TYPE=Release -S src -B build`
 `cmake --build build`
-`./build/KSP`
+`./build/JohnKopernicus`
 
 # Other
 
